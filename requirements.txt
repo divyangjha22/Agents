@@ -1,16 +1,50 @@
 ipykernel
 dotenv
 
-langgraph
+# LangChain Core
 langchain
-langchain_core
+langchain-core
+
+# LangChain Community Integrations
 langchain_community
 
+# OpenAI Integration
+langchain-openai
+
+# Groq Integration
 langchain_groq
+
+# Google Gemini Integration
 langchain_google_genai
 
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+# Web Scraping and APIs
 youtube-search-python
 youtube-search
 yfinance
 wikipedia
 ddgs
+
+# Langgraph
+langgraph
+
+# Embeddings
+sentence-transformers
