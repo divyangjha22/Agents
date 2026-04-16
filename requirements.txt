@@ -48,3 +48,6 @@ langgraph
 
 # Embeddings
 sentence-transformers
+
+# To draw graph
+grandalf
