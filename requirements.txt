@@ -51,3 +51,5 @@ sentence-transformers
 
 # To draw graph
 grandalf
+
+pypdf
