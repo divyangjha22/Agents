@@ -7,17 +7,18 @@ The broad field of creating systems that can perform tasks requiring human intel
 Examples: reasoning, learning, problem-solving, perception, language understanding  
 Focus: Making machines “intelligent”
 
-## ML:
+## Traditional AI
+### ML:
 A subset of AI where systems learn patterns from data instead of being explicitly programmed.  
 Examples: spam detection, recommendation systems  
 Focus: Learning from data
 
-## DL:
+### DL:
 A subset of ML that uses neural networks with many layers to learn complex patterns.  
 Examples: image recognition, speech recognition, LLMs  
 Focus: Learning complex representations using neural networks
 
-## Gen AI:
+## Generative AI:
 AI Systems that generate content such as text, images, or code.  
 Focus: Content Creation
 
